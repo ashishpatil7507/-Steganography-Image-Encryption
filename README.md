@@ -86,3 +86,4 @@ Extraction:
 
 Decryption:
 - The ciphertext is decrypted using the saved key to reveal the original message.
+
