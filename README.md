@@ -1,6 +1,6 @@
 # 🔐 Steganography-Image-Encryption
 
-**Steganography & Encryption using Python** | This project hides secret messages inside images using **LSB Steganography** and **AES-128 encryption (Fernet)**. The encryption key is **automatically generated, saved, and required for decryption**. Perfect for **secure communication & data hiding**.
+**Steganography & Encryption using Python** | This project can hides secret messages inside images using **LSB Steganography** and **AES-128 encryption (Fernet)**. The encryption key is **automatically generated, saved, and required for decryption**. Perfect for **secure communication & data hiding**.
 
 ----
 
